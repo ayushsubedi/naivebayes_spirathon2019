@@ -22,4 +22,4 @@
 - **Naive Bayes(Solutions):** Solutions for Naive Bayes
 - **NB Spam detection classifier**: We build a binary classifier using Scikit learn and publicly available SMS datasets. We also evaluate our model’s performance.
 - **NB Spam detection classifier(Solutions)**: Solutions for NB Spam detection classifier notebook. 
-
+- **NB vs Bagging, Random Forest and Adaboost(Solutions)**: We will not spend much time here. This notebook basically compares Naive bayes with other algorithmns for the same dataset. 
